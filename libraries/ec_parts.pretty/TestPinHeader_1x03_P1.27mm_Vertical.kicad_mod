@@ -12,9 +12,8 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f06870c8-674e-4294-9703-ace7647ba8c6)
   )
-  (pad "1" thru_hole circle (at 0 0) (size 1 1) (drill 0.4) (layers *.Cu *.Mask) (tstamp db65e677-5204-43bb-bc76-a03f54ed6401))
-  (pad "2" thru_hole oval (at 0 1.27) (size 1 1) (drill 0.4) (layers *.Cu *.Mask) (tstamp a45eac5b-ad23-48e6-9c57-965b4a82c290))
-  (pad "3" thru_hole oval (at 0 2.54) (size 1 1) (drill 0.4) (layers *.Cu *.Mask) (tstamp 76fd8d09-0bf9-4f2a-bc7f-bb9c6dc54072))
+  (pad "1" thru_hole circle (at -0.635 0) (size 1 1) (drill 0.4) (layers *.Cu *.Mask) (tstamp db65e677-5204-43bb-bc76-a03f54ed6401))
+  (pad "2" thru_hole circle (at 0.635 0) (size 1 1) (drill 0.4) (layers *.Cu *.Mask) (tstamp af7cafcb-d64a-4ae8-bcdb-26d8a46aa839))
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x03_P1.27mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
